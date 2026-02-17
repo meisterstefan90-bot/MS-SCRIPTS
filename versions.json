@@ -1,7 +1,7 @@
 {
-  "MS_Core": "1.0.0",
+  "MS_Core": "1.0.2",
   "MS_Connect": "1.0.0",
-  "MS_CombatLog": "1.0.0",
+  "MS_CombatLog": "1.0.1",
   "MS_MapColors": "1.0.0",
   "MS_SecretDoors": "1.0.0",
   "MS_LassoLock": "1.0.0",
@@ -9,7 +9,7 @@
   "MS_DrugDealer": "1.0.0",
   "MS_BeltAttachments": "1.0.0",
   "MS_Knockout": "1.0.0",
-  "MS_MadamNazar": "1.0.0",
+  "MS_MadamNazar": "1.0.1",
   "MS_PvPAmmo": "1.0.0",
   "MS_PvPSafezone": "1.0.0",
   "MS_WeaponMeta": "1.0.0",
