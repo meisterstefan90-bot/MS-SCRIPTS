@@ -13,5 +13,10 @@
   "MS_PvPAmmo": "1.0.0",
   "MS_PvPSafezone": "1.0.0",
   "MS_WeaponMeta": "1.0.0",
-  "MS_Wash": "1.0.0"
+  "MS_Wash": "1.0.0",
+  "MS_Loadingscreen": "1.0.0",
+  "MS_PausenMenu": "1.0.0",
+  "MS_Moonshine": "1.0.0",
+  "MS_Shop": "1.0.0",
+  "MS_Butcher": "1.0.0"
 }
