@@ -1,5 +1,5 @@
 {
-  "MS_Core": "1.3.4",
+  "MS_Core": "1.3.5",
   "MS_Connect": "1.1.1",
   "MS_CombatLog": "1.1.2",
   "MS_MapColors": "1.1.1",
@@ -11,4 +11,5 @@
   "MS_MadamNazar": "1.2.0",
   "MS_Wash": "1.2.1",
   "MS_Butcher": "1.1.0",
+  "MS_PvPDayNight": "1.0.0",
 }
