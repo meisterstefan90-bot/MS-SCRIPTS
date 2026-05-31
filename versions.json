@@ -11,5 +11,9 @@
   "mst_billing": "1.0.0",
   "mst_ffa": "1.0.0",
   "mst_shop": "1.0.0",
-  "mst_telegram": "1.0.0",  
+  "mst_crafting": "1.0.0",
+  "mst_loadingscreen": "1.0.0",
+  "mst_mining": "1.0.0",
+  "mst_pinboard": "1.0.0",
+  "mst_water": "1.0.0",
 }
