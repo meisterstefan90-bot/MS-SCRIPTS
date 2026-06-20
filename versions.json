@@ -18,4 +18,10 @@
   "mst_mining": "1.0.1",
   "mst_pinboard": "1.0.0",
   "mst_water": "1.0.1",
+  "mst_adminmenu": "1.0.0",
+  "mst_farming": "1.0.0",
+  "mst_hud": "1.0.0",
+  "mst_illegal": "1.0.0",
+  "mst_jobcreate": "1.0.0",
+  "mst_lumberjack": "1.0.0",
 }
